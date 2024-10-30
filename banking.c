@@ -36,14 +36,14 @@ int main(){
     return 0;
 }
 void creataccount(){
-    printf("\n work in progress try this option some time latter...");
+    printf("\n work in progress try this option some time later...");
 }
 void depositmoney(){
-    printf("\n work in progress try this option some time latter...");
+    printf("\n work in progress try this option some time later...");
 }
 void widrawmoney(){
-    printf("\n work in progress try this option some time latter...");
+    printf("\n work in progress try this option some time later...");
 }
 void checkbalance(){
-    printf("\n work in progress try this option some time latter...");
+    printf("\n work in progress try this option some time later...");
 }
