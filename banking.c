@@ -25,7 +25,7 @@ int main(){
         break;
         case 4:checkbalance();
         break;
-        case 5: printf("\n exiting....please weight a sec.. \n");
+        case 5: printf("\n exiting....please wait a sec.. \n");
          break;
         
         default: printf("\nyou choose wrong option plese chose one of these options whichh are given");
